@@ -57,3 +57,5 @@ class Validador:
             # Si no se ingrese un carácter válido, se captura la excepción y se muestra un mensaje de error.
             except:
                 print("Error: debe ingresar un número entero.")
+                
+                #estamos practicando
