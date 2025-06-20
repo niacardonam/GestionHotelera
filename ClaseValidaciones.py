@@ -58,4 +58,4 @@ class Validador:
             except:
                 print("Error: debe ingresar un número entero.")
                 
-                #estamos practicando
+                
